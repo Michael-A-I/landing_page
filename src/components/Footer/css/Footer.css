@@ -1,0 +1,16 @@
+.footer-bg {
+  background: #1f2937;
+  height: 100px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+.footer-copyright {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}

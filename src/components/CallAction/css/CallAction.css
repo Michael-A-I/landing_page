@@ -1,0 +1,29 @@
+.call-action-bg {
+  background: #3b82f6;
+  /* background: black; */
+  margin: 200px;
+  width: 80%;
+  margin: 160px auto;
+  border-radius: 5px;
+  /* border: 1px solid black; */
+}
+.call-action-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 35px;
+}
+.call-action-wrapper {
+  margin: 40px 10%;
+}
+
+.call-action-title {
+  color: white;
+}
+.call-action-sub {
+  color: white;
+}
+.call-action-button {
+  width: 150px;
+  float: right;
+}

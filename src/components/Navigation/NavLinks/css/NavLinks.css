@@ -1,0 +1,15 @@
+.hero-navbar {
+  color: #fff;
+}
+
+.navbar-brand {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero-logo-tag {
+  color: #fff;
+  font-size: 16px;
+  margin: 0 10px;
+}

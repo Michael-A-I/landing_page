@@ -1,0 +1,31 @@
+.testimonial-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: fit-content;
+  /* border: 1px solid black; */
+  margin: auto;
+  min-height: 350px;
+}
+
+.testimonial-bg {
+  background: #e5e7eb;
+  width: 100vw;
+  /* border: 1px solid green; */
+}
+
+.testimonial-text {
+  width: 60%;
+  padding: 5px;
+  text-align: center;
+  word-wrap: break-word;
+  font-size: 36px;
+}
+
+.testimonial-name {
+  width: 60%;
+  text-align: right;
+  padding: 0px 25px 0px 0px;
+  word-wrap: break-word;
+}

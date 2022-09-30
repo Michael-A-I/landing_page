@@ -1,0 +1,10 @@
+.hero-background {
+  background: #1f2937;
+  width: 100vw;
+  padding: 20px;
+  /* height: 35vh; */
+}
+
+.hero-wrapper {
+  margin: 20px 0px;
+}
